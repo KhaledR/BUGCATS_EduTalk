@@ -1,1 +1,2 @@
-# BUGCATS_EduTalk
+Reference:
+https://github.com/Madhur215/Django-ChatApp
